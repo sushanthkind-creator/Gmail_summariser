@@ -1,2 +1,2 @@
 # Gmail_summariser
-no more notification blast only your college mails
+no more notification blast only your Important college mails about quize, internship etc...
